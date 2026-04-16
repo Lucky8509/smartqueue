@@ -1,5 +1,17 @@
 {
+  "name": "smartqueue",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
-    "axios": "^1.15.0"
+    "axios": "^1.15.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "5.0.1",
+    "qrcode.react": "^3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   }
 }
