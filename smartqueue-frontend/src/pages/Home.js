@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className="container">
       <h1>SmartQueue System</h1>
-      <p>Digital Queue Management System</p>
+      <p>Digital Queue Management</p>
     </div>
   );
 }
